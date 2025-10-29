@@ -1,12 +1,8 @@
 column,target,converted_non_null_rows,null_after
-vin,vin,8000,0
 back_legroom,back_legroom,7840,160
-engine_type,engine_type,8000,0
 front_legroom,front_legroom,7948,52
 height,height,7993,7
-listed_date,listed_date,8000,0
 maximum_seating,maximum_seating,7993,7
 power,power,7995,5
-torque,torque,8000,0
 wheelbase,wheelbase,7993,7
 width,width,7993,7
